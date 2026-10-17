@@ -1,0 +1,6 @@
+{
+  "summary": "CrisisTwin map overhaul implementation plan replacing abstract vector diagram with a real interactive Leaflet map featuring real street and satellite tiles, non-overlapping controls, and an organized floating inspection drawer.",
+  "updatedAt": "2026-10-17T06:45:01.916309968Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

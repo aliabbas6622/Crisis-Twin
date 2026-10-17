@@ -1,0 +1,6 @@
+{
+  "name": "CrisisTwin: Multi-Agent Disaster Intelligence & Digital Twin",
+  "description": "Evidence-grounded probabilistic digital twin and counterfactual rescue optimization platform with grounded Gemini 3.8 Flash multi-agent workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
